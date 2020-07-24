@@ -1,4 +1,5 @@
 rootProject.name='bh-java'
 include 'xp'
 include 'accessLogs'
+include 'mini-scm'
 
